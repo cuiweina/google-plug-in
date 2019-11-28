@@ -11,4 +11,4 @@
  - JSONView（查看json格式的返回数据）
  - Octotree（查看github项目结构）
  - postman
- - wappalyzer(查看网页使用的技术栈)
+ - wappalyzer|BuiltWith Technology Profiler(查看网页使用的技术栈)
