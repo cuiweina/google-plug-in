@@ -6,7 +6,6 @@
 
  - 掘金：http://gold.xitu.io/extension/
  - 谷歌访问助手
- - SourceGraph（方便查看github代码结构 ）
  - The Great Suspender（自动休眠暂时不用的选项卡）
  - Adblock（屏蔽广告）
  - JSONView（查看json格式的返回数据）
